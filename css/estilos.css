@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: red; 
     text-align: center;
     font-family: "Consolas";
     font-size: 18px;
@@ -36,14 +36,10 @@ body
 
 #container h1
 {
-<<<<<<< HEAD
-    font-size: 24px;
-=======
     font-size: 20px;
 }
 
 #post
 {
     padding: 1em;
->>>>>>> cabecera
 }
